@@ -1,3 +1,8 @@
+# Java-Script-Context-Menu-Builder
+Use a premade context menu with java script.
+
+![screenshot](https://github.com/Monnapse/Java-Script-Context-Menu-Builder/blob/main/preview.png?raw=true)
+
 Example
 ```
 const contextMenu = ContextMenu()
